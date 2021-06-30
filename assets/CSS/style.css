@@ -1,0 +1,9 @@
+table{
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+td,th
+{
+    border: 1px solid black;
+}
+/* td,th pour indiquer que les deux doivent avoir des bordures */
